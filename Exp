@@ -1,0 +1,113 @@
+﻿<Experiences><List>
+	<Experience Name="WellPreparedPoints1" Group="WellPreparedPoints">
+		<DisplayName>Slightly Prepared</DisplayName>
+		<Desc>Several hours before the sect were under attack you sighted the enemy scouts from afar. The recent rumours about the enemies movement gave you the feeling that an omnious event were about to unfold. You managed to prepare more for your plan to survive.\n\n\n[size=10]Gained: [color=#D06508]+4 Additional Points.[/color][/size]</Desc>
+		<Point>-4</Point>
+	</Experience>
+	<Experience Name="WellPreparedPoints2" Group="WellPreparedPoints">
+		<DisplayName>Somewhat Prepared</DisplayName>
+		<Desc>You were one of those trusted disciples to work close for the elder. That night you overheard the elders were discussing about imminent danger and the sect destruction amidst their meeting. Wasting no time, you chose to prepare for your escape. You managed to prepare several days before the attack happened.\n\n\n[size=10]Gained: [color=#D06508]+14 Additional Points.[/color][/size]</Desc>
+		<Point>-14</Point>
+	</Experience>
+	<Experience Name="WellPreparedPoints3" Group="WellPreparedPoints">
+		<DisplayName>Well Prepared</DisplayName>
+		<Desc>Couple of months ago. While running errand for the sect agency in one of the outer villages, one of your colleagues reported rumours about a potential attack that might happen after they went out to scout. The recent news about the enemies sudden increase in power, makes you feel unsafe, you immediately prepared your everything for your leave.\n\n\n[size=10]Gained: [color=#D06508]+34 Additional Points.[/color][/size]</Desc>
+		<Point>-34</Point>
+	</Experience>
+	<Experience Name="WellPreparedPoints4" Group="WellPreparedPoints">
+		<DisplayName>Spiritual Foresight</DisplayName>
+		<Desc>You had a nightmare where you died in an attack by the sect enemies. The dream was super realistic to the point that everything you experienced after you woke up matched perfectly with the dream you had. You realized it was real, you only have 2 years before the attack but that is more than enough.\n\n\n[size=10]Gained: [color=#D06508]+74 Additional Points.[/color][/size]</Desc>
+		<Point>-74</Point>
+	</Experience>
+	<Experience Name="MoreDisciples1" Group="WellPreparedMoreDisciples">
+		<DisplayName>Fellowship of friends</DisplayName>
+		<Desc>Shared hardships and happy moments on the sect together has bonded you with some of the disciples. They trusted you and decided to help you on your escape.\n\n\n[size=10]Gained: [color=#D06508]+3 Additional Starting Disciples.[/color][/size]</Desc>
+		<Point>8</Point>
+		<NpcSlot>3</NpcSlot>
+	</Experience>
+	<Experience Name="MoreDisciples2" Group="WellPreparedMoreDisciples">
+		<DisplayName>Friends and Followers</DisplayName>
+		<Desc>While discussing with your friends about your escape from the sect approaching danger. Other disciples overheard it and they decided to follow you.\n\n\n[size=10]Gained: [color=#D06508]+4 Additional Starting Disciples.[/color][/size]</Desc>
+		<Point>12</Point>
+		<NpcSlot>4</NpcSlot>
+	</Experience>
+	<Experience Name="MoreDisciples3" Group="WellPreparedMoreDisciples">
+		<DisplayName>Harem King</DisplayName>
+		<Desc>While escaping, the survivors became poisoned with an aphrodisiac substance. You were the only male survivor, and lead your enamoured group of followers to safety.\n\n\n[size=10]Gained: [color=#D06508]+10 Additional Starting Disciples.[/color][/size]</Desc>
+		<Point>16</Point>
+		<NpcSlot>12</NpcSlot>
+	</Experience>
+	<Experience Name="AllLoot" Group="Loot">
+		<DisplayName>Looter</DisplayName>
+		<Desc>You managed to organize a salvage operation in the immediate aftermath of the attack, and got away with a considerable amount of ressources as well as several rare laws</Desc>
+		<Point>4</Point>
+		<Items>
+			<li Name= "Item_E_FaBaoBox" Count="1"/>
+			<li Name= "Item_E_MiJiBox" Count="1"/>
+			<li Name= "Item_E_FuBox" Count="1"/>
+			<li Name= "Item_E_DanBox" Count="1"/>
+			<li Name= "Item_FormalClothes" Stuff="Item_RabbitLeather" Quality="1"/>
+			<li Name= "Item_FormalTrousers" Stuff="Item_RabbitLeather" Quality="1"/>
+			<li Name= "Item_Dice" Stuff="Item_DarksteelRock" Quality="1"/>
+			<li Name= "Item_PerfumeBag" Stuff="Item_RabbitLeather" Quality="1"/>
+			<li Name= "Item_Bracelet" Stuff="Item_Jade" Quality="1"/>
+			<li Name= "Item_Cake" Count="80"/>
+			<li Name= "Item_Jerky" Count="80"/>
+			<li Name= "Item_Dan_NoHunger" Count="20"/>
+			<li Name= "Item_RoughWoodBlock" Count="200"/>
+			<li Name= "Item_IronBlock" Count="200"/>
+			<li Name= "Item_MarbleBlock" Count="200"/>
+			<li Name= "Item_SilverBlock" Count="40"/>
+			<li Name= "Item_CopperBlock" Count="40"/>
+			<li Name= "Item_Healroot" Count="40"/>
+			<li Name= "Item_Mint" Count="40"/>
+			<li Name= "Item_MagicHerb" Count="100"/>
+			<li Name= "Item_RedGinseng" Count="10"/>
+			<li Name= "Item_PurpleGanodermaLucidum" Count="10"/>
+			<li Name= "Item_Jade" Count="20"/>
+			<li Name= "Item_HardWood" Count="20"/>
+			<li Name= "Item_CopperRock" Count="20"/>
+			<li Name= "Item_SilverRock" Count="20"/>
+			<li Name= "Item_DarksteelRock" Count="10"/>
+			<li Name= "Item_JadeEssence" Count="1"/>
+			<li Name= "Item_Fruit" Count="18"/>
+			<li Name= "Item_LingWater" Count="5"/>
+			<li Name= "Item_Ginkgo" Count="76"/>
+			<li Name= "Item_SnakeGallbladder" Count="7"/>
+			<li Name= "Item_BearGallbladder" Count="5"/>
+			<li Name= "Item_BearMeat" Count="96"/>
+			<li Name= "Item_SnakeMeat" Count="66"/>
+			<li Name= "Item_EarthEssence" Count="1"/>
+			<li Name= "Item_BasePracticeDrug" Count="1"/>
+			<li Name= "Item_Dan_Happiness" Count="7"/>
+			<li Name= "Item_Dan_ExtremeLofty" Count="2"/>
+			<li Name= "Item_Dan_ExtremeLofty" Count="1" IsJingGuai="1"/>
+			<li Name= "Item_LunHui_Box1" Count="1"/>
+			<li Name= "Item_LunHui_Box2" Count="1"/>
+			<li Name= "Item_LunHui_QiYuanZhiXin" Quality="1"/>
+			<li Name= "Item_LunHui_DongFangHeShenZhen" Count="1"/>
+			<li Name= "Item_Dan_LunHui1" Count="1"/>
+			<li Name= "Item_StoneBox2" Count="1"/>
+			<li Name= "Item_StoneBox2" Count="1"/>
+			<li Name= "Item_StoneBox2" Count="1"/>
+		</Items>
+		<Esoterics>
+			<li>SpellEsoterica_5</li>
+			<li>DanFang_1</li>
+			<li>Esoterica_LunHui3</li>
+			<li>Esoterica_LunHui4</li>
+			<li>Esoterica_LunHui5</li>
+			<li>Esoterica_LunHui2</li>
+			<li>Esoterica_LunHui1</li>
+		</Esoterics>
+		<Gongs>
+			<li>Gong_1_Shui</li>
+			<li>Body_Gong_1</li>
+			<li>Gong_2_Mu</li>
+			<li>Gong_6_Huo</li>
+			<li>Gong_5_Tu</li>
+		</Gongs>
+	</Experience>
+	
+	
+</List></Experiences>
